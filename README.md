@@ -25,4 +25,8 @@ I am writing an email to let them know about this effort.
 
 ## Colors 
 
-Picking the colors is probably the hardest part of 
+Picking the colors is probably the hardest part of this work. I'm open to suggestions for improving the color palette in the dark mode. Please send your pull requests with screenshots. 
+
+## HN discussions 
+
+* https://github.com/mohsen1/hn-news-css/
