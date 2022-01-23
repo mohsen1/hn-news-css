@@ -29,4 +29,4 @@ Picking the colors is probably the hardest part of this work. I'm open to sugges
 
 ## HN discussions 
 
-* https://github.com/mohsen1/hn-news-css/
+* https://news.ycombinator.com/item?id=30047702
