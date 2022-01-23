@@ -4,7 +4,7 @@ Updated Hacker News `news.css` file to support dark mode using native features s
 
 See the screenshots for how it looks like. You can override your own user agent's CSS to see it in action too.
 
-## How it is done?
+## How is it done?
 
 * Replaced all hardcoded colors to use CSS Variables
 * Added a `:root` section to define all color and font variables
