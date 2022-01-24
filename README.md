@@ -21,6 +21,11 @@ Having to toggle to turn on/off the dark mode is anti-pattern. Specially for sav
 
 I am writing an email to let them know about this effort. 
 
+### Response to my email
+
+> Thanks! I'll take a look!
+
+> Our current thinking is still to add a facility to HN for people to upload their own CSS so they can adjust the look and feel how they want, not only for dark mode but for anything. However, it's nontrivial to make sure that security vulnerabilities aren't introduced that way. We'll get to it eventually!
 
 
 ## Colors 
